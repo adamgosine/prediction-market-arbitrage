@@ -1,0 +1,2644 @@
+{
+  "arbitrage_opportunities": [
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.099574364079242,
+      "net_profit_usd": 50.99574364079241,
+      "gross_profit_usd": 61.99574364079241,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9380042563592076,
+      "timestamp": "2026-02-03T15:33:11.107053"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.501915424921172,
+      "net_profit_usd": 95.01915424921171,
+      "gross_profit_usd": 106.01915424921171,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8939808457507883,
+      "timestamp": "2026-02-03T15:33:11.107291"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 11.200963548602795,
+      "net_profit_usd": 112.00963548602795,
+      "gross_profit_usd": 123.00963548602795,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.876990364513972,
+      "timestamp": "2026-02-03T15:33:11.107411"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.37427942719561,
+      "net_profit_usd": 83.74279427195609,
+      "gross_profit_usd": 94.74279427195609,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9052572057280439,
+      "timestamp": "2026-02-03T15:33:16.200875"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 4.687713269007255,
+      "net_profit_usd": 46.87713269007255,
+      "gross_profit_usd": 57.87713269007255,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9421228673099274,
+      "timestamp": "2026-02-03T15:33:16.201272"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.225007086553949,
+      "net_profit_usd": 72.25007086553948,
+      "gross_profit_usd": 83.25007086553948,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9167499291344605,
+      "timestamp": "2026-02-03T15:33:16.201530"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.778121601417723,
+      "net_profit_usd": 107.78121601417723,
+      "gross_profit_usd": 118.78121601417723,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8812187839858228,
+      "timestamp": "2026-02-03T15:33:21.302994"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.819304083092206,
+      "net_profit_usd": 88.19304083092206,
+      "gross_profit_usd": 99.19304083092206,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9008069591690779,
+      "timestamp": "2026-02-03T15:33:26.397738"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.628915122663628,
+      "net_profit_usd": 76.28915122663628,
+      "gross_profit_usd": 87.28915122663628,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9127108487733637,
+      "timestamp": "2026-02-03T15:33:26.397847"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 3.06831504728733,
+      "net_profit_usd": 30.6831504728733,
+      "gross_profit_usd": 41.6831504728733,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9583168495271267,
+      "timestamp": "2026-02-03T15:33:31.484431"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.378719720685519,
+      "net_profit_usd": 23.78719720685519,
+      "gross_profit_usd": 34.78719720685519,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9652128027931448,
+      "timestamp": "2026-02-03T15:33:31.484765"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.3518904425920426,
+      "net_profit_usd": 23.518904425920425,
+      "gross_profit_usd": 34.518904425920425,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9654810955740796,
+      "timestamp": "2026-02-03T15:33:31.484882"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.136944080932187,
+      "net_profit_usd": 81.36944080932186,
+      "gross_profit_usd": 92.36944080932186,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9076305591906781,
+      "timestamp": "2026-02-03T15:33:41.657107"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 4.480304197378661,
+      "net_profit_usd": 44.803041973786605,
+      "gross_profit_usd": 55.803041973786605,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9441969580262134,
+      "timestamp": "2026-02-03T15:33:41.657351"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 0.7894653795185733,
+      "net_profit_usd": 7.894653795185732,
+      "gross_profit_usd": 18.894653795185732,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9811053462048143,
+      "timestamp": "2026-02-03T15:33:46.741329"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.302984538521059,
+      "net_profit_usd": 23.029845385210592,
+      "gross_profit_usd": 34.02984538521059,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9659701546147894,
+      "timestamp": "2026-02-03T15:33:46.741558"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 3.359657912154247,
+      "net_profit_usd": 33.59657912154247,
+      "gross_profit_usd": 44.59657912154247,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9554034208784575,
+      "timestamp": "2026-02-03T15:33:46.741686"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.602974791649322,
+      "net_profit_usd": 86.02974791649322,
+      "gross_profit_usd": 97.02974791649322,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9029702520835068,
+      "timestamp": "2026-02-03T15:33:51.824918"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 0.8188151521470243,
+      "net_profit_usd": 8.188151521470242,
+      "gross_profit_usd": 19.188151521470242,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9808118484785298,
+      "timestamp": "2026-02-03T15:33:51.825145"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.911875788366141,
+      "net_profit_usd": 59.1187578836614,
+      "gross_profit_usd": 70.1187578836614,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9298812421163386,
+      "timestamp": "2026-02-03T15:33:51.825273"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.565884532671399,
+      "net_profit_usd": 85.65884532671399,
+      "gross_profit_usd": 96.65884532671399,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.903341154673286,
+      "timestamp": "2026-02-03T15:33:56.911648"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 4.703593554282638,
+      "net_profit_usd": 47.03593554282638,
+      "gross_profit_usd": 58.03593554282638,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9419640644571736,
+      "timestamp": "2026-02-03T15:33:56.911894"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 12.486972603980483,
+      "net_profit_usd": 124.86972603980485,
+      "gross_profit_usd": 135.86972603980485,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8641302739601951,
+      "timestamp": "2026-02-03T15:34:02.009769"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 11.306015126901968,
+      "net_profit_usd": 113.0601512690197,
+      "gross_profit_usd": 124.0601512690197,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8759398487309803,
+      "timestamp": "2026-02-03T15:34:02.010004"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 0.8332759589855253,
+      "net_profit_usd": 8.332759589855254,
+      "gross_profit_usd": 19.332759589855254,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9806672404101447,
+      "timestamp": "2026-02-03T15:34:02.010127"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.6995584963931294,
+      "net_profit_usd": 26.995584963931293,
+      "gross_profit_usd": 37.99558496393129,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9620044150360687,
+      "timestamp": "2026-02-03T15:34:07.124169"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.889810869764912,
+      "net_profit_usd": 58.89810869764912,
+      "gross_profit_usd": 69.89810869764912,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9301018913023509,
+      "timestamp": "2026-02-03T15:34:07.124504"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.939628984227153,
+      "net_profit_usd": 59.39628984227153,
+      "gross_profit_usd": 70.39628984227153,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9296037101577285,
+      "timestamp": "2026-02-03T15:34:12.213877"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.917348591735581,
+      "net_profit_usd": 29.173485917355812,
+      "gross_profit_usd": 40.17348591735581,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9598265140826442,
+      "timestamp": "2026-02-03T15:34:17.312022"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 11.143195843991673,
+      "net_profit_usd": 111.43195843991673,
+      "gross_profit_usd": 122.43195843991673,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8775680415600833,
+      "timestamp": "2026-02-03T15:34:17.312249"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.417692170213641,
+      "net_profit_usd": 84.17692170213643,
+      "gross_profit_usd": 95.17692170213643,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9048230782978636,
+      "timestamp": "2026-02-03T15:34:17.312369"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.475031405824658,
+      "net_profit_usd": 24.75031405824658,
+      "gross_profit_usd": 35.75031405824658,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9642496859417534,
+      "timestamp": "2026-02-03T15:34:22.407989"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 4.592640022667339,
+      "net_profit_usd": 45.926400226673394,
+      "gross_profit_usd": 56.926400226673394,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9430735997733266,
+      "timestamp": "2026-02-03T15:34:22.408111"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.663115034977444,
+      "net_profit_usd": 96.63115034977444,
+      "gross_profit_usd": 107.63115034977444,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8923688496502256,
+      "timestamp": "2026-02-03T15:34:27.494620"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 6.905592699613861,
+      "net_profit_usd": 69.05592699613861,
+      "gross_profit_usd": 80.05592699613861,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9199440730038614,
+      "timestamp": "2026-02-03T15:34:27.494852"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.339558282810025,
+      "net_profit_usd": 103.39558282810025,
+      "gross_profit_usd": 114.39558282810025,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8856044171718997,
+      "timestamp": "2026-02-03T15:34:32.583161"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.005867889830985,
+      "net_profit_usd": 50.05867889830985,
+      "gross_profit_usd": 61.05867889830985,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9389413211016902,
+      "timestamp": "2026-02-03T15:34:37.679873"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 6.612349794718366,
+      "net_profit_usd": 66.12349794718365,
+      "gross_profit_usd": 77.12349794718365,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9228765020528163,
+      "timestamp": "2026-02-03T15:34:37.680556"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.717536620779809,
+      "net_profit_usd": 87.17536620779809,
+      "gross_profit_usd": 98.17536620779809,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9018246337922019,
+      "timestamp": "2026-02-03T15:34:42.788781"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 12.92180727484068,
+      "net_profit_usd": 129.2180727484068,
+      "gross_profit_usd": 140.2180727484068,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8597819272515932,
+      "timestamp": "2026-02-03T15:34:42.788984"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.064044965743007,
+      "net_profit_usd": 20.640449657430068,
+      "gross_profit_usd": 31.640449657430068,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9683595503425699,
+      "timestamp": "2026-02-03T15:34:42.789092"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.166578688202653,
+      "net_profit_usd": 81.66578688202654,
+      "gross_profit_usd": 92.66578688202654,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9073342131179735,
+      "timestamp": "2026-02-03T15:34:47.867216"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.575572038640246,
+      "net_profit_usd": 95.75572038640246,
+      "gross_profit_usd": 106.75572038640246,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8932442796135975,
+      "timestamp": "2026-02-03T15:34:47.867553"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 12.016180796548728,
+      "net_profit_usd": 120.16180796548727,
+      "gross_profit_usd": 131.16180796548727,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8688381920345127,
+      "timestamp": "2026-02-03T15:34:52.953043"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 11.290324686052369,
+      "net_profit_usd": 112.90324686052368,
+      "gross_profit_usd": 123.90324686052368,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8760967531394763,
+      "timestamp": "2026-02-03T15:34:58.043861"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.6169756470670777,
+      "net_profit_usd": 26.169756470670777,
+      "gross_profit_usd": 37.16975647067078,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9628302435293292,
+      "timestamp": "2026-02-03T15:35:03.146626"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.0604808700320008,
+      "net_profit_usd": 20.604808700320007,
+      "gross_profit_usd": 31.604808700320007,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.96839519129968,
+      "timestamp": "2026-02-03T15:35:03.146938"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.570764678639698,
+      "net_profit_usd": 75.70764678639698,
+      "gross_profit_usd": 86.70764678639698,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.913292353213603,
+      "timestamp": "2026-02-03T15:35:08.235456"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.574373655480175,
+      "net_profit_usd": 95.74373655480174,
+      "gross_profit_usd": 106.74373655480174,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8932562634451983,
+      "timestamp": "2026-02-03T15:35:08.235641"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.507605026031017,
+      "net_profit_usd": 85.07605026031018,
+      "gross_profit_usd": 96.07605026031018,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9039239497396898,
+      "timestamp": "2026-02-03T15:35:13.317041"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.106525571554126,
+      "net_profit_usd": 81.06525571554126,
+      "gross_profit_usd": 92.06525571554126,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9079347442844588,
+      "timestamp": "2026-02-03T15:35:13.317385"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.851535583826111,
+      "net_profit_usd": 88.5153558382611,
+      "gross_profit_usd": 99.5153558382611,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9004846441617389,
+      "timestamp": "2026-02-03T15:35:18.395513"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.914157775190646,
+      "net_profit_usd": 79.14157775190645,
+      "gross_profit_usd": 90.14157775190645,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9098584222480935,
+      "timestamp": "2026-02-03T15:35:18.395741"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 0.9711069449505736,
+      "net_profit_usd": 9.711069449505736,
+      "gross_profit_usd": 20.711069449505736,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9792889305504943,
+      "timestamp": "2026-02-03T15:35:23.477975"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 4.944769584143395,
+      "net_profit_usd": 49.44769584143395,
+      "gross_profit_usd": 60.44769584143395,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.939552304158566,
+      "timestamp": "2026-02-03T15:35:23.478201"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.324159395378341,
+      "net_profit_usd": 103.24159395378342,
+      "gross_profit_usd": 114.24159395378342,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8857584060462166,
+      "timestamp": "2026-02-03T15:35:23.478321"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.877336032539096,
+      "net_profit_usd": 78.77336032539097,
+      "gross_profit_usd": 89.77336032539097,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.910226639674609,
+      "timestamp": "2026-02-03T15:35:28.559344"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.156865411547411,
+      "net_profit_usd": 81.5686541154741,
+      "gross_profit_usd": 92.5686541154741,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9074313458845259,
+      "timestamp": "2026-02-03T15:35:28.559629"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.436433753868522,
+      "net_profit_usd": 94.36433753868523,
+      "gross_profit_usd": 105.36433753868523,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8946356624613148,
+      "timestamp": "2026-02-03T15:35:28.559784"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.7263739542382823,
+      "net_profit_usd": 27.263739542382822,
+      "gross_profit_usd": 38.26373954238282,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9617362604576172,
+      "timestamp": "2026-02-03T15:35:33.637618"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.617410690442161,
+      "net_profit_usd": 56.174106904421606,
+      "gross_profit_usd": 67.1741069044216,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9328258930955784,
+      "timestamp": "2026-02-03T15:35:33.637742"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.843179957029982,
+      "net_profit_usd": 108.43179957029982,
+      "gross_profit_usd": 119.43179957029982,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8805682004297002,
+      "timestamp": "2026-02-03T15:35:38.714402"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.928946345285341,
+      "net_profit_usd": 109.28946345285341,
+      "gross_profit_usd": 120.28946345285341,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8797105365471466,
+      "timestamp": "2026-02-03T15:35:38.714804"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.989830542718481,
+      "net_profit_usd": 89.89830542718481,
+      "gross_profit_usd": 100.89830542718481,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8991016945728152,
+      "timestamp": "2026-02-03T15:35:43.792605"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.58295253742246,
+      "net_profit_usd": 55.8295253742246,
+      "gross_profit_usd": 66.8295253742246,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9331704746257754,
+      "timestamp": "2026-02-03T15:35:43.792734"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 3.0949624394164497,
+      "net_profit_usd": 30.949624394164495,
+      "gross_profit_usd": 41.949624394164495,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9580503756058355,
+      "timestamp": "2026-02-03T15:35:48.887558"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.6762987843405808,
+      "net_profit_usd": 16.762987843405806,
+      "gross_profit_usd": 27.762987843405806,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9722370121565942,
+      "timestamp": "2026-02-03T15:35:48.887782"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 3.9957609408863513,
+      "net_profit_usd": 39.95760940886351,
+      "gross_profit_usd": 50.95760940886351,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9490423905911365,
+      "timestamp": "2026-02-03T15:35:48.887901"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.9353882309347659,
+      "net_profit_usd": 19.353882309347657,
+      "gross_profit_usd": 30.353882309347657,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9696461176906523,
+      "timestamp": "2026-02-03T15:35:53.963516"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.44150029909624,
+      "net_profit_usd": 94.4150029909624,
+      "gross_profit_usd": 105.4150029909624,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8945849970090376,
+      "timestamp": "2026-02-03T15:35:53.963726"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 6.0982681670516135,
+      "net_profit_usd": 60.98268167051613,
+      "gross_profit_usd": 71.98268167051613,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9280173183294839,
+      "timestamp": "2026-02-03T15:35:59.055828"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 11.025134668358316,
+      "net_profit_usd": 110.25134668358317,
+      "gross_profit_usd": 121.25134668358317,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8787486533164168,
+      "timestamp": "2026-02-03T15:35:59.056095"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.032118701024833,
+      "net_profit_usd": 20.32118701024833,
+      "gross_profit_usd": 31.32118701024833,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9686788129897517,
+      "timestamp": "2026-02-03T15:35:59.056237"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.3190411331861618,
+      "net_profit_usd": 13.190411331861618,
+      "gross_profit_usd": 24.19041133186162,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9758095886681384,
+      "timestamp": "2026-02-03T15:36:04.141075"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.101481209829066,
+      "net_profit_usd": 81.01481209829066,
+      "gross_profit_usd": 92.01481209829066,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9079851879017093,
+      "timestamp": "2026-02-03T15:36:04.141298"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 4.357968888457477,
+      "net_profit_usd": 43.579688884574765,
+      "gross_profit_usd": 54.579688884574765,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9454203111154252,
+      "timestamp": "2026-02-03T15:36:09.503602"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 6.123111824463157,
+      "net_profit_usd": 61.231118244631574,
+      "gross_profit_usd": 72.23111824463157,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9277688817553684,
+      "timestamp": "2026-02-03T15:36:09.503808"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.2136804816084823,
+      "net_profit_usd": 12.136804816084823,
+      "gross_profit_usd": 23.136804816084823,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9768631951839152,
+      "timestamp": "2026-02-03T15:36:14.584185"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 6.838165696425404,
+      "net_profit_usd": 68.38165696425403,
+      "gross_profit_usd": 79.38165696425403,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.920618343035746,
+      "timestamp": "2026-02-03T15:36:14.584394"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 13.192299861246026,
+      "net_profit_usd": 131.92299861246028,
+      "gross_profit_usd": 142.92299861246028,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8570770013875397,
+      "timestamp": "2026-02-03T15:36:19.668446"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.245532412012839,
+      "net_profit_usd": 102.45532412012838,
+      "gross_profit_usd": 113.45532412012838,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8865446758798716,
+      "timestamp": "2026-02-03T15:36:19.668658"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 14.714029453974476,
+      "net_profit_usd": 147.14029453974476,
+      "gross_profit_usd": 158.14029453974476,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8418597054602552,
+      "timestamp": "2026-02-03T15:36:24.746507"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 3.98364030179298,
+      "net_profit_usd": 39.8364030179298,
+      "gross_profit_usd": 50.8364030179298,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9491635969820702,
+      "timestamp": "2026-02-03T15:36:24.746632"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 6.701389656833213,
+      "net_profit_usd": 67.01389656833213,
+      "gross_profit_usd": 78.01389656833213,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9219861034316679,
+      "timestamp": "2026-02-03T15:36:29.838213"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 3.3793760640028716,
+      "net_profit_usd": 33.793760640028715,
+      "gross_profit_usd": 44.793760640028715,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9552062393599713,
+      "timestamp": "2026-02-03T15:36:29.838514"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.2398515462126625,
+      "net_profit_usd": 72.39851546212662,
+      "gross_profit_usd": 83.39851546212662,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9166014845378734,
+      "timestamp": "2026-02-03T15:36:34.927232"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 15.916967008632547,
+      "net_profit_usd": 159.16967008632545,
+      "gross_profit_usd": 170.16967008632545,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8298303299136746,
+      "timestamp": "2026-02-03T15:36:40.116656"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.99746728414729,
+      "net_profit_usd": 89.97467284147288,
+      "gross_profit_usd": 100.97467284147288,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8990253271585271,
+      "timestamp": "2026-02-03T15:36:40.116829"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.233898976527564,
+      "net_profit_usd": 52.338989765275635,
+      "gross_profit_usd": 63.338989765275635,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9366610102347244,
+      "timestamp": "2026-02-03T15:36:45.235326"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 12.377637401213937,
+      "net_profit_usd": 123.77637401213937,
+      "gross_profit_usd": 134.77637401213937,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8652236259878606,
+      "timestamp": "2026-02-03T15:36:45.235560"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.967742858687958,
+      "net_profit_usd": 99.67742858687957,
+      "gross_profit_usd": 110.67742858687957,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8893225714131204,
+      "timestamp": "2026-02-03T15:36:50.332087"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 4.362495670804234,
+      "net_profit_usd": 43.62495670804235,
+      "gross_profit_usd": 54.62495670804235,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9453750432919577,
+      "timestamp": "2026-02-03T15:36:50.332290"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.173693300309338,
+      "net_profit_usd": 91.73693300309338,
+      "gross_profit_usd": 102.73693300309338,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8972630669969066,
+      "timestamp": "2026-02-03T15:36:55.419117"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.763610822734284,
+      "net_profit_usd": 107.63610822734283,
+      "gross_profit_usd": 118.63610822734283,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8813638917726572,
+      "timestamp": "2026-02-03T15:36:55.419347"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 14.972917415220676,
+      "net_profit_usd": 149.72917415220678,
+      "gross_profit_usd": 160.72917415220678,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8392708258477932,
+      "timestamp": "2026-02-03T15:36:55.419471"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.0417539227901795,
+      "net_profit_usd": 10.417539227901795,
+      "gross_profit_usd": 21.417539227901795,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9785824607720982,
+      "timestamp": "2026-02-03T15:37:00.500823"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.020049218657544,
+      "net_profit_usd": 90.20049218657545,
+      "gross_profit_usd": 101.20049218657545,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8987995078134245,
+      "timestamp": "2026-02-03T15:37:00.501101"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.3485410269817444,
+      "net_profit_usd": 23.485410269817443,
+      "gross_profit_usd": 34.48541026981744,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9655145897301826,
+      "timestamp": "2026-02-03T15:37:00.501214"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.708485089411592,
+      "net_profit_usd": 107.08485089411592,
+      "gross_profit_usd": 118.08485089411592,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8819151491058841,
+      "timestamp": "2026-02-03T15:37:05.580391"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 12.638205377766255,
+      "net_profit_usd": 126.38205377766255,
+      "gross_profit_usd": 137.38205377766255,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8626179462223375,
+      "timestamp": "2026-02-03T15:37:10.649966"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.3849150883174521,
+      "net_profit_usd": 13.84915088317452,
+      "gross_profit_usd": 24.84915088317452,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9751508491168255,
+      "timestamp": "2026-02-03T15:37:10.650199"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.453148791186575,
+      "net_profit_usd": 104.53148791186574,
+      "gross_profit_usd": 115.53148791186574,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8844685120881343,
+      "timestamp": "2026-02-03T15:37:10.650320"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 14.523473146325594,
+      "net_profit_usd": 145.23473146325594,
+      "gross_profit_usd": 156.23473146325594,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.843765268536744,
+      "timestamp": "2026-02-03T15:37:15.735860"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.174550256411928,
+      "net_profit_usd": 71.74550256411928,
+      "gross_profit_usd": 82.74550256411928,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9172544974358807,
+      "timestamp": "2026-02-03T15:37:15.736174"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.576140875608469,
+      "net_profit_usd": 25.76140875608469,
+      "gross_profit_usd": 36.76140875608469,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9632385912439153,
+      "timestamp": "2026-02-03T15:37:20.828328"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 2.386808998603874,
+      "net_profit_usd": 23.86808998603874,
+      "gross_profit_usd": 34.86808998603874,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9651319100139613,
+      "timestamp": "2026-02-03T15:37:20.828682"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.3139258336405177,
+      "net_profit_usd": 13.139258336405177,
+      "gross_profit_usd": 24.139258336405177,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9758607416635948,
+      "timestamp": "2026-02-03T15:37:30.980144"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.414827644512528,
+      "net_profit_usd": 104.14827644512526,
+      "gross_profit_usd": 115.14827644512526,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8848517235548747,
+      "timestamp": "2026-02-03T15:37:30.980373"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 3.5137397756188635,
+      "net_profit_usd": 35.13739775618863,
+      "gross_profit_usd": 46.13739775618863,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9538626022438114,
+      "timestamp": "2026-02-03T15:37:30.980496"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.401338190814677,
+      "net_profit_usd": 84.01338190814678,
+      "gross_profit_usd": 95.01338190814678,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9049866180918532,
+      "timestamp": "2026-02-03T15:37:41.149025"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.6724748723793965,
+      "net_profit_usd": 56.724748723793965,
+      "gross_profit_usd": 67.72474872379397,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.932275251276206,
+      "timestamp": "2026-02-03T15:37:41.149136"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.896271166637595,
+      "net_profit_usd": 98.96271166637595,
+      "gross_profit_usd": 109.96271166637595,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.890037288333624,
+      "timestamp": "2026-02-03T15:37:46.237032"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 10.325907813746838,
+      "net_profit_usd": 103.25907813746838,
+      "gross_profit_usd": 114.25907813746838,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.8857409218625316,
+      "timestamp": "2026-02-03T15:37:46.237390"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 5.177924742235796,
+      "net_profit_usd": 51.77924742235796,
+      "gross_profit_usd": 62.77924742235796,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.937220752577642,
+      "timestamp": "2026-02-03T15:37:51.309745"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.381186446590872,
+      "net_profit_usd": 73.81186446590871,
+      "gross_profit_usd": 84.81186446590871,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9151881355340913,
+      "timestamp": "2026-02-03T15:37:51.309877"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 9.203573566476688,
+      "net_profit_usd": 92.03573566476688,
+      "gross_profit_usd": 103.03573566476688,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.8969642643352331,
+      "timestamp": "2026-02-03T15:37:56.388378"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 7.510437988034548,
+      "net_profit_usd": 75.10437988034548,
+      "gross_profit_usd": 86.10437988034548,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9138956201196545,
+      "timestamp": "2026-02-03T15:37:56.388508"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.2510157570828526,
+      "net_profit_usd": 12.510157570828525,
+      "gross_profit_usd": 23.510157570828525,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.9764898424291715,
+      "timestamp": "2026-02-03T15:38:01.476527"
+    },
+    {
+      "market_a_question": "Will Fed reach rate cut by Q1 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Fed cuts rates Q1 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 8.327038124986165,
+      "net_profit_usd": 83.27038124986164,
+      "gross_profit_usd": 94.27038124986164,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9057296187501384,
+      "timestamp": "2026-02-03T15:38:01.476731"
+    },
+    {
+      "market_a_question": "Will Recession reach declared by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "Recession declared in 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 0.6339783334505033,
+      "net_profit_usd": 6.339783334505032,
+      "gross_profit_usd": 17.339783334505032,
+      "transaction_costs": 11.0,
+      "strategy": "NO_A_YES_B",
+      "combined_cost": 0.982660216665495,
+      "timestamp": "2026-02-03T15:38:01.476839"
+    },
+    {
+      "market_a_question": "Will S&P 500 reach 7000 by 2026?",
+      "market_a_source": "Kalshi",
+      "market_b_question": "S&P 500 above 7000 by 2026?",
+      "market_b_source": "Polymarket",
+      "net_profit_pct": 1.8691083702697353,
+      "net_profit_usd": 18.69108370269735,
+      "gross_profit_usd": 29.69108370269735,
+      "transaction_costs": 11.0,
+      "strategy": "YES_A_NO_B",
+      "combined_cost": 0.9703089162973026,
+      "timestamp": "2026-02-03T15:38:06.560942"
+    }
+  ],
+  "mispriced_markets": [
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.1194994716749553,
+      "house_edge_pct": 11.949947167495534,
+      "timestamp": "2026-02-03T15:33:21.210445"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1118218563103,
+      "house_edge_pct": 11.182185631029995,
+      "timestamp": "2026-02-03T15:33:26.309370"
+    },
+    {
+      "market": "S&P 500 above 7000 by 2026?",
+      "source": "Polymarket",
+      "overround": 1.1459061596154625,
+      "house_edge_pct": 14.590615961546249,
+      "timestamp": "2026-02-03T15:33:26.309372"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1541917019367007,
+      "house_edge_pct": 15.419170193670073,
+      "timestamp": "2026-02-03T15:33:31.403725"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.2259840611071229,
+      "house_edge_pct": 22.59840611071229,
+      "timestamp": "2026-02-03T15:33:36.491017"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1508536225533357,
+      "house_edge_pct": 15.085362255333568,
+      "timestamp": "2026-02-03T15:33:41.577839"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.2114226599563302,
+      "house_edge_pct": 21.142265995633025,
+      "timestamp": "2026-02-03T15:33:46.660107"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1078058259576857,
+      "house_edge_pct": 10.780582595768573,
+      "timestamp": "2026-02-03T15:33:51.747065"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1170493356027005,
+      "house_edge_pct": 11.704933560270048,
+      "timestamp": "2026-02-03T15:33:56.832384"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1447780955396276,
+      "house_edge_pct": 14.47780955396276,
+      "timestamp": "2026-02-03T15:33:56.832389"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.115836904720275,
+      "house_edge_pct": 11.583690472027497,
+      "timestamp": "2026-02-03T15:34:01.917318"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.110591859590973,
+      "house_edge_pct": 11.059185959097295,
+      "timestamp": "2026-02-03T15:34:07.014980"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.136705338619835,
+      "house_edge_pct": 13.670533861983492,
+      "timestamp": "2026-02-03T15:34:12.130601"
+    },
+    {
+      "market": "S&P 500 above 7000 by 2026?",
+      "source": "Polymarket",
+      "overround": 1.1103970754136707,
+      "house_edge_pct": 11.039707541367072,
+      "timestamp": "2026-02-03T15:34:22.320094"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1055992736942197,
+      "house_edge_pct": 10.559927369421974,
+      "timestamp": "2026-02-03T15:34:27.413699"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1200067528517184,
+      "house_edge_pct": 12.000675285171836,
+      "timestamp": "2026-02-03T15:34:32.501481"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.1668463393725794,
+      "house_edge_pct": 16.684633937257942,
+      "timestamp": "2026-02-03T15:34:37.589682"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1002222095968517,
+      "house_edge_pct": 10.022220959685168,
+      "timestamp": "2026-02-03T15:34:52.872912"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.203015560815525,
+      "house_edge_pct": 20.30155608155251,
+      "timestamp": "2026-02-03T15:34:52.872932"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1421204988274059,
+      "house_edge_pct": 14.212049882740585,
+      "timestamp": "2026-02-03T15:34:52.872939"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1331214898146178,
+      "house_edge_pct": 13.31214898146178,
+      "timestamp": "2026-02-03T15:34:57.960449"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.1196127711477097,
+      "house_edge_pct": 11.961277114770974,
+      "timestamp": "2026-02-03T15:35:03.050811"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.134082570131273,
+      "house_edge_pct": 13.40825701312729,
+      "timestamp": "2026-02-03T15:35:18.322089"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.2231043248048539,
+      "house_edge_pct": 22.31043248048539,
+      "timestamp": "2026-02-03T15:35:18.322110"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.1212947016478485,
+      "house_edge_pct": 12.12947016478485,
+      "timestamp": "2026-02-03T15:35:38.643174"
+    },
+    {
+      "market": "S&P 500 above 7000 by 2026?",
+      "source": "Polymarket",
+      "overround": 1.2225525898243625,
+      "house_edge_pct": 22.255258982436253,
+      "timestamp": "2026-02-03T15:35:43.721225"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1900583198082582,
+      "house_edge_pct": 19.005831980825818,
+      "timestamp": "2026-02-03T15:36:04.060875"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1974960758325113,
+      "house_edge_pct": 19.749607583251127,
+      "timestamp": "2026-02-03T15:36:09.144546"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1236193658407645,
+      "house_edge_pct": 12.36193658407645,
+      "timestamp": "2026-02-03T15:36:14.510337"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.1709314302436744,
+      "house_edge_pct": 17.093143024367443,
+      "timestamp": "2026-02-03T15:36:34.843629"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1507411708618314,
+      "house_edge_pct": 15.074117086183136,
+      "timestamp": "2026-02-03T15:36:45.124129"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1099459094828505,
+      "house_edge_pct": 10.994590948285055,
+      "timestamp": "2026-02-03T15:36:50.240394"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1489928585722917,
+      "house_edge_pct": 14.899285857229172,
+      "timestamp": "2026-02-03T15:36:55.338000"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.114758701274004,
+      "house_edge_pct": 11.47587012740039,
+      "timestamp": "2026-02-03T15:37:05.505500"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.1913964426348491,
+      "house_edge_pct": 19.13964426348491,
+      "timestamp": "2026-02-03T15:37:15.657656"
+    },
+    {
+      "market": "S&P 500 above 7000 by 2026?",
+      "source": "Polymarket",
+      "overround": 1.1761746201491596,
+      "house_edge_pct": 17.617462014915965,
+      "timestamp": "2026-02-03T15:37:25.836510"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.1275252380178555,
+      "house_edge_pct": 12.752523801785554,
+      "timestamp": "2026-02-03T15:37:25.836524"
+    },
+    {
+      "market": "Fed cuts rates Q1 2026?",
+      "source": "Polymarket",
+      "overround": 1.1712671799543242,
+      "house_edge_pct": 17.126717995432415,
+      "timestamp": "2026-02-03T15:37:35.986465"
+    },
+    {
+      "market": "S&P 500 above 7000 by 2026?",
+      "source": "Polymarket",
+      "overround": 1.1823151454908587,
+      "house_edge_pct": 18.23151454908587,
+      "timestamp": "2026-02-03T15:37:51.243870"
+    },
+    {
+      "market": "S&P 500 above 7000 by 2026?",
+      "source": "Polymarket",
+      "overround": 1.1310657390999497,
+      "house_edge_pct": 13.106573909994967,
+      "timestamp": "2026-02-03T15:37:56.312369"
+    },
+    {
+      "market": "BTC above $100k in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1010959009839119,
+      "house_edge_pct": 10.109590098391186,
+      "timestamp": "2026-02-03T15:38:06.479874"
+    },
+    {
+      "market": "Recession declared in 2026?",
+      "source": "Polymarket",
+      "overround": 1.1038619104454872,
+      "house_edge_pct": 10.38619104454872,
+      "timestamp": "2026-02-03T15:38:06.479889"
+    }
+  ],
+  "market_snapshots": [
+    {
+      "timestamp": "2026-02-03T15:33:11.107700",
+      "total_markets": 12,
+      "avg_yes_price": 0.46359378070266605,
+      "avg_overround": 0.972970040076545,
+      "avg_volume": 45711.666666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:33:16.202002",
+      "total_markets": 12,
+      "avg_yes_price": 0.4314683677543148,
+      "avg_overround": 0.9835600069422251,
+      "avg_volume": 45710.75
+    },
+    {
+      "timestamp": "2026-02-03T15:33:21.303276",
+      "total_markets": 12,
+      "avg_yes_price": 0.4606793574519806,
+      "avg_overround": 0.9696493956706197,
+      "avg_volume": 46203.416666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:33:26.398123",
+      "total_markets": 12,
+      "avg_yes_price": 0.4303283808200444,
+      "avg_overround": 1.0184377462917917,
+      "avg_volume": 37525.583333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:33:31.485162",
+      "total_markets": 12,
+      "avg_yes_price": 0.5555764303283534,
+      "avg_overround": 0.9973775642829996,
+      "avg_volume": 39668.0
+    },
+    {
+      "timestamp": "2026-02-03T15:33:36.572791",
+      "total_markets": 12,
+      "avg_yes_price": 0.4732411145277157,
+      "avg_overround": 1.0499803285226708,
+      "avg_volume": 40953.416666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:33:41.657827",
+      "total_markets": 12,
+      "avg_yes_price": 0.5292196470039497,
+      "avg_overround": 0.9903007268899399,
+      "avg_volume": 40794.083333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:33:46.741986",
+      "total_markets": 12,
+      "avg_yes_price": 0.4782899384006701,
+      "avg_overround": 1.012194742918055,
+      "avg_volume": 40051.25
+    },
+    {
+      "timestamp": "2026-02-03T15:33:51.825591",
+      "total_markets": 12,
+      "avg_yes_price": 0.514034638981005,
+      "avg_overround": 0.996644377772557,
+      "avg_volume": 39202.0
+    },
+    {
+      "timestamp": "2026-02-03T15:33:56.912316",
+      "total_markets": 12,
+      "avg_yes_price": 0.46762518139109094,
+      "avg_overround": 1.0163977572314296,
+      "avg_volume": 48876.75
+    },
+    {
+      "timestamp": "2026-02-03T15:34:02.010423",
+      "total_markets": 12,
+      "avg_yes_price": 0.493713402197338,
+      "avg_overround": 1.0011434454558612,
+      "avg_volume": 41030.333333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:34:07.124802",
+      "total_markets": 12,
+      "avg_yes_price": 0.4441295318223543,
+      "avg_overround": 1.0041573393940133,
+      "avg_volume": 43665.666666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:34:12.214511",
+      "total_markets": 12,
+      "avg_yes_price": 0.5224250436275896,
+      "avg_overround": 1.0180604639804107,
+      "avg_volume": 41723.25
+    },
+    {
+      "timestamp": "2026-02-03T15:34:17.312682",
+      "total_markets": 12,
+      "avg_yes_price": 0.5198597236307919,
+      "avg_overround": 0.976681427766768,
+      "avg_volume": 43886.0
+    },
+    {
+      "timestamp": "2026-02-03T15:34:22.408399",
+      "total_markets": 12,
+      "avg_yes_price": 0.5253443109251493,
+      "avg_overround": 1.0138455431240312,
+      "avg_volume": 39348.083333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:34:27.495255",
+      "total_markets": 12,
+      "avg_yes_price": 0.4634408587715852,
+      "avg_overround": 1.0097031861606114,
+      "avg_volume": 38610.0
+    },
+    {
+      "timestamp": "2026-02-03T15:34:32.583521",
+      "total_markets": 12,
+      "avg_yes_price": 0.47393460371485846,
+      "avg_overround": 1.0152867544863977,
+      "avg_volume": 34570.083333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:34:37.680900",
+      "total_markets": 12,
+      "avg_yes_price": 0.4756138255852515,
+      "avg_overround": 0.9932876811970209,
+      "avg_volume": 48837.75
+    },
+    {
+      "timestamp": "2026-02-03T15:34:42.789350",
+      "total_markets": 12,
+      "avg_yes_price": 0.44856993210055457,
+      "avg_overround": 0.9831222596610605,
+      "avg_volume": 40189.5
+    },
+    {
+      "timestamp": "2026-02-03T15:34:47.867851",
+      "total_markets": 12,
+      "avg_yes_price": 0.42305205202265034,
+      "avg_overround": 0.9765698763697467,
+      "avg_volume": 35834.5
+    },
+    {
+      "timestamp": "2026-02-03T15:34:52.953666",
+      "total_markets": 12,
+      "avg_yes_price": 0.561448901489026,
+      "avg_overround": 1.025210503982838,
+      "avg_volume": 45761.0
+    },
+    {
+      "timestamp": "2026-02-03T15:34:58.044285",
+      "total_markets": 12,
+      "avg_yes_price": 0.5297925166640939,
+      "avg_overround": 0.9931387809772678,
+      "avg_volume": 43914.25
+    },
+    {
+      "timestamp": "2026-02-03T15:35:03.147264",
+      "total_markets": 12,
+      "avg_yes_price": 0.46523070632305624,
+      "avg_overround": 0.9974437700858556,
+      "avg_volume": 43454.25
+    },
+    {
+      "timestamp": "2026-02-03T15:35:08.235950",
+      "total_markets": 12,
+      "avg_yes_price": 0.5496786696088175,
+      "avg_overround": 0.9811213129919852,
+      "avg_volume": 39375.083333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:35:13.317811",
+      "total_markets": 12,
+      "avg_yes_price": 0.517071074199058,
+      "avg_overround": 0.9760111129738195,
+      "avg_volume": 40873.916666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:35:18.396147",
+      "total_markets": 12,
+      "avg_yes_price": 0.5340727624702885,
+      "avg_overround": 1.0053210282541778,
+      "avg_volume": 43851.25
+    },
+    {
+      "timestamp": "2026-02-03T15:35:23.478608",
+      "total_markets": 12,
+      "avg_yes_price": 0.45284922940602046,
+      "avg_overround": 0.9555038609063295,
+      "avg_volume": 37013.333333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:35:28.560078",
+      "total_markets": 12,
+      "avg_yes_price": 0.5258784859351814,
+      "avg_overround": 0.9820289355773303,
+      "avg_volume": 49169.333333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:35:33.638044",
+      "total_markets": 12,
+      "avg_yes_price": 0.4485805231236353,
+      "avg_overround": 0.9976248035215768,
+      "avg_volume": 44203.666666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:35:38.715182",
+      "total_markets": 12,
+      "avg_yes_price": 0.48340291361075316,
+      "avg_overround": 1.003805946118237,
+      "avg_volume": 44820.833333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:35:43.793000",
+      "total_markets": 12,
+      "avg_yes_price": 0.47907701604193953,
+      "avg_overround": 1.0196155135554463,
+      "avg_volume": 43541.5
+    },
+    {
+      "timestamp": "2026-02-03T15:35:48.888194",
+      "total_markets": 12,
+      "avg_yes_price": 0.4964417048432554,
+      "avg_overround": 1.003632056866153,
+      "avg_volume": 50605.333333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:35:53.964319",
+      "total_markets": 12,
+      "avg_yes_price": 0.4493817678829363,
+      "avg_overround": 0.9765232501316264,
+      "avg_volume": 38500.666666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:35:59.056589",
+      "total_markets": 12,
+      "avg_yes_price": 0.46976779503335253,
+      "avg_overround": 1.0041803752571046,
+      "avg_volume": 42555.333333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:36:04.141935",
+      "total_markets": 12,
+      "avg_yes_price": 0.525263207686699,
+      "avg_overround": 1.017797587917537,
+      "avg_volume": 32951.833333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:36:09.504181",
+      "total_markets": 12,
+      "avg_yes_price": 0.5730568517515813,
+      "avg_overround": 0.9966448222540104,
+      "avg_volume": 42823.416666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:36:14.584799",
+      "total_markets": 12,
+      "avg_yes_price": 0.5195569947970452,
+      "avg_overround": 1.0118594341910703,
+      "avg_volume": 37279.583333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:36:19.669066",
+      "total_markets": 12,
+      "avg_yes_price": 0.43559662125713133,
+      "avg_overround": 1.002104476395253,
+      "avg_volume": 40759.0
+    },
+    {
+      "timestamp": "2026-02-03T15:36:24.746921",
+      "total_markets": 12,
+      "avg_yes_price": 0.4894719345716803,
+      "avg_overround": 0.9910172654643151,
+      "avg_volume": 45757.583333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:36:29.838943",
+      "total_markets": 12,
+      "avg_yes_price": 0.497569622110792,
+      "avg_overround": 0.9874540267169998,
+      "avg_volume": 40178.416666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:36:34.927906",
+      "total_markets": 12,
+      "avg_yes_price": 0.5571674378916491,
+      "avg_overround": 0.9980325166466981,
+      "avg_volume": 46564.416666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:36:40.117225",
+      "total_markets": 12,
+      "avg_yes_price": 0.5017606011067394,
+      "avg_overround": 0.9812399030739484,
+      "avg_volume": 51382.75
+    },
+    {
+      "timestamp": "2026-02-03T15:36:45.236031",
+      "total_markets": 12,
+      "avg_yes_price": 0.49911137794189425,
+      "avg_overround": 0.9947205647353471,
+      "avg_volume": 41459.166666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:36:50.332659",
+      "total_markets": 12,
+      "avg_yes_price": 0.5044018487699099,
+      "avg_overround": 0.9923264718189442,
+      "avg_volume": 40059.0
+    },
+    {
+      "timestamp": "2026-02-03T15:36:55.419762",
+      "total_markets": 12,
+      "avg_yes_price": 0.5364601234490215,
+      "avg_overround": 0.9772185868216484,
+      "avg_volume": 50378.75
+    },
+    {
+      "timestamp": "2026-02-03T15:37:00.501475",
+      "total_markets": 12,
+      "avg_yes_price": 0.4838104879449013,
+      "avg_overround": 0.9795166897187194,
+      "avg_volume": 46398.75
+    },
+    {
+      "timestamp": "2026-02-03T15:37:05.580681",
+      "total_markets": 12,
+      "avg_yes_price": 0.5013710244379598,
+      "avg_overround": 1.0023426742051569,
+      "avg_volume": 52001.416666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:37:10.650611",
+      "total_markets": 12,
+      "avg_yes_price": 0.43064409005693266,
+      "avg_overround": 0.9654163440747796,
+      "avg_volume": 36364.5
+    },
+    {
+      "timestamp": "2026-02-03T15:37:15.736437",
+      "total_markets": 12,
+      "avg_yes_price": 0.520352708001699,
+      "avg_overround": 0.974472022320166,
+      "avg_volume": 44683.666666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:37:20.828976",
+      "total_markets": 12,
+      "avg_yes_price": 0.472653733212871,
+      "avg_overround": 0.9991338577342579,
+      "avg_volume": 44295.583333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:37:25.906501",
+      "total_markets": 12,
+      "avg_yes_price": 0.5616546293730119,
+      "avg_overround": 1.030164565795996,
+      "avg_volume": 43657.833333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:37:30.980886",
+      "total_markets": 12,
+      "avg_yes_price": 0.4948205778940645,
+      "avg_overround": 1.0087833674384183,
+      "avg_volume": 51293.416666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:37:36.057630",
+      "total_markets": 12,
+      "avg_yes_price": 0.510939780607459,
+      "avg_overround": 1.0314210053163138,
+      "avg_volume": 48010.75
+    },
+    {
+      "timestamp": "2026-02-03T15:37:41.149703",
+      "total_markets": 12,
+      "avg_yes_price": 0.49951646358254537,
+      "avg_overround": 0.9975808179248595,
+      "avg_volume": 40005.666666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:37:46.237681",
+      "total_markets": 12,
+      "avg_yes_price": 0.524685176462342,
+      "avg_overround": 0.9658530650069492,
+      "avg_volume": 43920.5
+    },
+    {
+      "timestamp": "2026-02-03T15:37:51.310162",
+      "total_markets": 12,
+      "avg_yes_price": 0.5126301597214727,
+      "avg_overround": 1.0087549450239135,
+      "avg_volume": 47887.333333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:37:56.388919",
+      "total_markets": 12,
+      "avg_yes_price": 0.5261809027188002,
+      "avg_overround": 1.000229588847934,
+      "avg_volume": 48948.833333333336
+    },
+    {
+      "timestamp": "2026-02-03T15:38:01.477100",
+      "total_markets": 12,
+      "avg_yes_price": 0.49576849302571885,
+      "avg_overround": 1.0194928585734326,
+      "avg_volume": 57456.166666666664
+    },
+    {
+      "timestamp": "2026-02-03T15:38:06.561590",
+      "total_markets": 12,
+      "avg_yes_price": 0.4256155507742357,
+      "avg_overround": 1.0259110257800217,
+      "avg_volume": 34760.5
+    }
+  ],
+  "liquidity_stats": [
+    {
+      "timestamp": "2026-02-03T15:33:11.104420",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:16.200663",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:21.302433",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:26.397317",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:31.483996",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:36.571598",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:41.656810",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:46.741098",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:51.824689",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:33:56.911310",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:02.009534",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:07.123967",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:12.213654",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:17.311783",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:22.407516",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:27.494384",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:32.582378",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:37.679675",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:42.788584",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:47.866994",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:52.952806",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:34:58.043205",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:03.146397",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:08.234956",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:13.316718",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:18.395215",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:23.477741",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:28.559113",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:33.637156",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:38.714166",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:43.792017",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:48.887319",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:53.963184",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:35:59.055575",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:04.140815",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:09.503219",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:14.583925",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:19.668226",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:24.745987",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:29.837826",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:34.926957",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:40.116053",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:45.235085",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:50.331875",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:36:55.418881",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:00.500140",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:05.579812",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:10.649714",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:15.735641",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:20.828047",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:25.905643",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:30.979900",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:36.056526",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:41.148609",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:46.236713",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:51.309290",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:37:56.387685",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:38:01.476285",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    },
+    {
+      "timestamp": "2026-02-03T15:38:06.560705",
+      "total_markets": 27,
+      "high_liquidity": 12,
+      "filtered_out": 15
+    }
+  ]
+}
